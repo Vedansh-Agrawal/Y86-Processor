@@ -1,0 +1,33 @@
+$date
+	Wed Feb 15 18:33:57 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module memorytb $end
+$scope module UUT $end
+$var wire 1 ! clk $end
+$var wire 4 " icode [3:0] $end
+$var wire 64 # valA [63:0] $end
+$var wire 64 $ valB [63:0] $end
+$var wire 64 % valE [63:0] $end
+$var wire 64 & valp [63:0] $end
+$var reg 64 ' memory_data [63:0] $end
+$var reg 64 ( valM [63:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b100001001110110010101001010 (
+b100001001110110010101001010 '
+b100001001110110010101001010 &
+b1010 %
+bx $
+b1000110100010101100111100010010000 #
+b101 "
+x!
+$end

@@ -1,0 +1,26 @@
+$date
+	Mon Feb 13 15:08:44 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module inst_memtb $end
+$scope module UUT $end
+$var wire 64 ! pc [63:0] $end
+$var reg 72 " align [71:0] $end
+$var reg 1 # error_flag $end
+$var reg 8 $ split [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b100000 $
+0#
+b1000000000000000001001100110100 "
+b0 !
+$end
+#500

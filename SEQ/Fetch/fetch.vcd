@@ -1,0 +1,35 @@
+$date
+	Tue Feb 14 22:27:54 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module registerfiletb $end
+$scope module UUT $end
+$var wire 1 ! clk $end
+$var wire 4 " dstE [3:0] $end
+$var wire 4 # dstM [3:0] $end
+$var wire 4 $ srcA [3:0] $end
+$var wire 4 % srcB [3:0] $end
+$var wire 64 & valE [63:0] $end
+$var wire 64 ' valM [63:0] $end
+$var reg 64 ( valA [63:0] $end
+$var reg 64 ) valB [63:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1000 )
+b110 (
+b101010001101011 '
+b100101010 &
+b111 %
+b101 $
+b1010 #
+b1000 "
+x!
+$end
